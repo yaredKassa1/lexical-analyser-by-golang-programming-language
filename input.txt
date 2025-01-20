@@ -22,7 +22,7 @@ func main() {
     fmt.Println("get:", a[4])
     
     /* multi-line 
-     comment
+     comments
      */
     // single line comment
 @#  // to check error
