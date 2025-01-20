@@ -22,3 +22,12 @@ Group Members
 |3.| Geleta Bekele   |  1301323 |
 |4.| Yared Kassa     |  1303033 |
 |5.| Zekarias Woreket|  1306501 |
+
+## Group Members
+
+| Name           | Student ID |
+|----------------|------------|
+| Alice Johnson  | S123456    |
+| Bob Smith      | S789012    |
+| Charlie Brown  | S345678    |
+| Diana Prince   | S901234    |
