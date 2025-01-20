@@ -11,7 +11,7 @@ Clone or Download the Project: Clone the repository or download the project file
 Prepare Input File: Create or modify a text file containing the Go source code that you want to analyze. Name it input.txt.  
 ## Run the Lexer:  
 Open a terminal or command prompt.  
-Navigate to the directory where the lexicalAnalyser.go file is located.  
+Navigate to the directory where the lexicalAnalyser.go and input.txt files are located.  
 ## Execute the following command:
 bash  
 go run lexicalAnalyser.go input.txt  
