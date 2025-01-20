@@ -6,7 +6,7 @@ The lexer reads source code from a file, tokenizes it into meaningful components
 It serves as a foundational tool for building compilers or interpreters, helping to understand the structure and components of source code.  
 
 ## Instructions for Running the Program  
-Install Go: Ensure that you have Go installed on your machine. You can download it from the official Go website:[ golang.org.]  
+Install Go: Ensure that you have Go installed on your machine. You can download it from the official Go website:[ golang.org.] (golang.org.) 
 Clone or Download the Project: Clone the repository or download the project files to your local machine.  
 Prepare Input File: Create or modify a text file containing the Go source code that you want to analyze. Name it input.txt.  
 ## Run the Lexer:  
