@@ -1,9 +1,9 @@
 # lexical-analyser-by-golang-programming-language
 Lexical Analyzer with Golang Programming Language
-Project Description
+#Project Description
 This project implements a lexical analyzer (lexer) using the Go programming language. The lexer reads source code from a file, tokenizes it into meaningful components (keywords, operators, delimiters, identifiers, and literals), and reports any lexical errors encountered during the analysis. It serves as a foundational tool for building compilers or interpreters, helping to understand the structure and components of source code.
 
-Instructions for Running the Program
+#Instructions for Running the Program
 Install Go: Ensure that you have Go installed on your machine. You can download it from the official Go website: golang.org.
 Clone or Download the Project: Clone the repository or download the project files to your local machine.
 Prepare Input File: Create or modify a text file containing the Go source code that you want to analyze. Name it input.txt.
