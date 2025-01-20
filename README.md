@@ -25,9 +25,10 @@ Group Members
 
 ## Group Members
 
-| Name           | Student ID |
+| Name           |  ID |
 |----------------|------------|
-| Alice Johnson  | S123456    |
-| Bob Smith      | S789012    |
-| Charlie Brown  | S345678    |
-| Diana Prince   | S901234    |
+| Abel Assefa  | 1300419    |
+| Betsegaw Muluneh     | 1300580    |
+| Geleta Bekele  | 1301323    |
+| Yared Kassa   | 1303033    |
+| Zekarias Woreket   | 1306501    |
